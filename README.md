@@ -18,4 +18,4 @@ This tool uses GPT-4o to generate multiple ad copy variations for platforms like
 ---
 
 ## 🖼️ Preview
-![Ad Generator Screenshot](assets/ad-generator.png)
+https://github.com/Mo-Awad-AI/Automated-Ad-Copy-Generator-Split-Tester/blob/654acdbc0e90d8cbf6eccc80355d19fc5f861270/Automated%20Ad%20Copy%20Generator%20%26%20Split%20Tester.png
